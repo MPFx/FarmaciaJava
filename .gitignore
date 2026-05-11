@@ -1,0 +1,17 @@
+# Archivos compilados
+dist/
+build/
+*.class
+
+# Configuración de NetBeans
+nbproject/
+build.xml
+manifest.mf
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
