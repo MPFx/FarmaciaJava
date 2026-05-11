@@ -64,4 +64,3 @@ Funciona exclusivamente por consola (CLI - Command Line Interface).
 Todos los derechos reservados
 ## Derechos de autor
 **© 2026 ISC Israel de Jesus Mar Parada**
-Todos los derechos reservados.
